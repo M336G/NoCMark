@@ -1,0 +1,30 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "m336.no-c-mark",
+	"name": "No (C) Mark",
+	"version": "v1.0.0",
+	"developer": "M336",
+	"description": "Removes copied levels' (C) mark on upload",
+	"links": {
+		"source": "https://github.com/M336G/NoCMark"
+	},
+	"issues": {
+		"info": "Having an issue with the mod?",
+		"url": "https://github.com/M336G/NoCMark/issues"
+	},
+	"tags": [ "utility" ],
+	"settings": {
+		"disable-mod": {
+			"name": "Disable Mod",
+			"description": "Disables the mod, keeping the original ID on copied levels when published",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
