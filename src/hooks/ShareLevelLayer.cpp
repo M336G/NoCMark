@@ -1,6 +1,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/ShareLevelLayer.hpp>
-#include "../managers/SettingsManager.h"
+#include "../managers/SettingsManager.hpp"
 
 using namespace geode::prelude;
 
@@ -23,7 +23,8 @@ class $modify(ShareLevelLayer) {
                 acknowledgementText->getContentWidth() / acknowledgementText->getScale(),
                 acknowledgementText->getAnchorPoint(),
                 acknowledgementText->getContentHeight() / acknowledgementText->getScale(),
-                false
+                false,
+                0
             );
 
             warningText->setScale(acknowledgementText->getScale());

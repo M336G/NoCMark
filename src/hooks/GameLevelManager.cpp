@@ -1,6 +1,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/GameLevelManager.hpp>
-#include "../managers/SettingsManager.h"
+#include "../managers/SettingsManager.hpp"
 
 using namespace geode::prelude;
 
