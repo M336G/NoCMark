@@ -3,12 +3,11 @@
 	"gd": {
 		"win": "2.2091",
 		"android": "2.2091",
-		"mac": "2.2091",
-		"ios": "2.2091"
+		"mac": "2.2091"
 	},
 	"id": "m336.no-c-mark",
 	"name": "No (C) Mark",
-	"version": "v1.0.2",
+	"version": "v1.0.2-beta.1",
 	"developer": "M336",
 	"description": "Removes copied levels' (C) mark on upload",
 	"links": {

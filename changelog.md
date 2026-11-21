@@ -1,5 +1,5 @@
 # 1.0.2
-- Ported the mod to 2.2091
+- Ported the mod to 2.2091 (temporarily without iOS)
 
 # 1.0.1
 - Added a warning in the share level popup for when the (C) mark will be removed
